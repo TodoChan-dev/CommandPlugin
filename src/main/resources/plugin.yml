@@ -1,0 +1,4 @@
+name: CommandPlugin
+version: '${project.version}'
+main: jp.tproject.commandplugin.CommandPlugin
+api-version: '1.20'
